@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-debug-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Debug with vscode debug application",
+  "repository": "https://github.com/pqdluiz/nodejs-debug-example.git",
+  "author": "Luiz Lima",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
